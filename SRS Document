@@ -1,0 +1,89 @@
+1. Introduction 
+
+1.1 Purpose
+The purpose of this project is to create a wellness tracking application that combines both mental and physical wellness in a single space. This app will help users set wellness goals and track their progress and monitor patterns to effectively achieve their desired health outcomes.
+
+1.2 Scope
+Users will be able to: 
+- Create unique user account to store data
+- Set goals or requirements 
+- Track calorie intake, workout, and sleep data
+- Track mood/emotions, journal entries, and daily habits 
+- View progress on dashboard 
+- Compare mental and physical metrics 
+
+1.3 Intended Audience
+This document is for myself, any future contributing developers, and instructors.
+
+2. Description 
+
+2.1 Product Perspective 
+This project will be a web application built using ASP.NET Core with a database from SQL. This app will improve upon existing fitness apps as it will merge both aspects of physical and mental health into one platform.
+
+2.2 Product Functions
+This app will have: 
+- Creation for a user with login credentials 
+- Mood and journal documentation 
+- Custom habit tracking
+- Calorie intake logging
+- Workout tracking 
+- Sleep tracking 
+- Goal setting 
+- Home dashboard
+
+2.3 User Characteristics 
+This app is designed with a diverse demographic of people in consideration. Ranging from college students, working professionals, or anyone who’s looking to improve their overall well-being through habit tracking and goal setting.
+
+2.4 Constraints 
+This apps limitations will be: 
+- It will be primarily developed for web/browser use and will be optimized for desktops
+- All data will be stored through the SQL database
+- External API integrations while may be added in the future, will not be compatible for the beginning stages of this app 
+- Limited machine learning/predictive analytics depending on data size and complexity 
+
+2.5 Dependencies 
+- Users will need to access app from a web browser 
+- Stable internet connection 
+- Hosting environment must support .NET
+
+3. Functional Requirements 
+
+3.1 User Registration and Login
+- Users must be able to register with an email and password
+- Users can login and manage their accounts 
+
+3.2 Mood and Journal Tracking
+- Users can express mood using preset ratings and add personal notes
+- Users can write and save journal entries 
+
+3.3 Habit Tracker
+- User can create custom habits
+- User can mark habits as complete 
+
+3.4 Calorie Tracker
+- User can log calories per meal 
+- App will compare current calories and daily goal
+
+3.5 Workout Tracker
+- Users can log workout with duration and calories burned
+- App displays interval summaries 
+
+3.6 Sleep Tracker
+- Users can enter sleep hours and quality 
+- App visualizes sleep patterns 
+
+3.7 Dashboard
+- User can view progress through various charts and graphs
+- User can compare trends across different wellness aspects 
+
+4. Non-Functional Requirements
+This app should:
+- Be intuitive the user and shouldn’t require any prerequisite knowledge or skills to use
+- Load quickly without delays
+- Have an authentication process and password hashing to protect data
+- Support multiple users across various devices without complications 
+- Be adaptable for future expansion
+
+Future Add-Ons
+Integrated API’s (Apple Watch, FitBit, etc.)
+Notifications
