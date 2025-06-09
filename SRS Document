@@ -70,7 +70,7 @@ This apps limitations will be:
 
 3.6 Sleep Tracker
 - Users can enter sleep hours and quality 
-- App visualizes sleep patterns 
+- App visualizes sleep summary
 
 3.7 Dashboard
 - User can view progress through various charts and graphs
@@ -87,3 +87,40 @@ This app should:
 Future Add-Ons
 Integrated API’s (Apple Watch, FitBit, etc.)
 Notifications
+
+Weekly Check-In Tasks
+Week 1: 
+- Brainstorm Porject
+Week 2: 
+- SRS Document
+Week 3:(Start Coding)
+- Created Database
+- Create Models
+- Initial Migrations
+- Scaffolded CRUD
+Week 4: 
+- Added Sleep Tracker
+- Added Calorie Tracker
+- Added Workout Tracker
+Week 5:
+- Continued on Trackers
+Week 6: (Minimum Viable Project)
+- Added User Regstration and Login
+- Added User Roles
+- Created Admin
+Week 7:
+- Added Goal Settings
+- Added Habit Tracker
+- Added Mood Tracker
+Week 8:(User Testing)
+- Reccomendations (Add Weekly Summary. Add Progression Bar for Goal, Make it look nicer)
+Week 9:
+- Added Weekly Summary
+- Added Dailt Goal Progression Bar
+Week 10:
+- Debugged Tracker Summaries
+- Debugged Tracker Goal Settings
+Week 11: (Finals Week)
+- To-do
+Make everything look visually appealing!!
+Prepare Presentation!!
